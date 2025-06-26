@@ -1,0 +1,4 @@
+__pycache__
+*.keras
+.python-version
+data/malware.json
