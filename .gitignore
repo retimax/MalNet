@@ -1,5 +1,5 @@
 __pycache__
-!models/.gitkeep
 models/*
+!models/.gitkeep
 .python-version
 data/malware.json
